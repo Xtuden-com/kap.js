@@ -37,8 +37,8 @@
     "normalize.css": "5.0.0",
     "openseadragon": "2.2.1",
     "pad-left": "2.1.0",
-    "react": "15.4.1",
-    "react-dom": "15.4.1",
+    "react": "15.7.0",
+    "react-dom": "15.7.0",
     "react-redux": "4.4.6",
     "redux": "3.6.0",
     "redux-thunk": "2.1.0"
